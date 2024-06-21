@@ -210,7 +210,9 @@ public class calculator extends JFrame implements ActionListener {
                 }
 
         }
+/*dupa
 
+ */
 
 
 
